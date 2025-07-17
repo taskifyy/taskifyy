@@ -11,33 +11,33 @@ I am a Computer Science and Information Technology student at the New Jersey Ins
 
 ## 🔧 Skills
 
-Languages & Frameworks: Python, C, HTML, CSS, JavaScript, SQL
-Cloud & Databases: AWS (Cloud Foundations Certified), Lambda, VPC, Aurora
-Tools & Platforms: GitHub, Figma, Adobe Creative Suite, Microsoft Office, Google Workspace
-Operating Systems: MacOS, Windows 10/11, Linux
-Soft Skills: Leadership, Public Speaking, Team Collaboration, Project Management
+* Languages & Frameworks: Python, C, HTML, CSS, JavaScript, SQL
+* Cloud & Databases: AWS (Cloud Foundations Certified), Lambda, VPC, Aurora
+* Tools & Platforms: GitHub, Figma, Adobe Creative Suite, Microsoft Office, Google Workspace
+* Operating Systems: MacOS, Windows 10/11, Linux
+* Soft Skills: Leadership, Public Speaking, Team Collaboration, Project Management
 
 ## 🌱 Current Projects & Activities
 
-Programming Intern at The Knowledge House: building foundational skills in branding, web development, and career readiness.
-Research Fellow at The Gem Project, Inc.: co-authoring white papers, leading outreach, and facilitating discussions on social justice and civic engagement.
-Lead Programmer & Builder for FIRST Robotics: mentoring teammates and leading competitive robotics development.
+* Programming Intern at The Knowledge House: building foundational skills in branding, web development, and career readiness.
+* Research Fellow at The Gem Project, Inc.: co-authoring white papers, leading outreach, and facilitating discussions on social justice and civic engagement.
+* Lead Programmer & Builder for FIRST Robotics: mentoring teammates and leading competitive robotics development.
 
 ## 📚 Education
 
-New Jersey Institute of Technology, B.S. in Computer Science — Expected May 2029
-Dual Enrollment:
-    Cloud Computing at Arizona State University
-    Business & Psychology at Essex County College
-    Intro to Apple iOS & Computer Science at Rutgers University
-Central High School, Newark, NJ — Expected Jun 2025
-Albert Dorman Honors Program at NJIT
+* New Jersey Institute of Technology, B.S. in Computer Science — Expected May 2029
+* Dual Enrollment:
+    * Cloud Computing at Arizona State University
+    * Business & Psychology at Essex County College
+    * Intro to Apple iOS & Computer Science at Rutgers University
+* Central High School, Newark, NJ — Expected Jun 2025
+* Albert Dorman Honors Program at NJIT
 
 ## 🏆 Certifications & Awards
 
-AWS Academy Cloud Foundations Graduate
-ASU Cloud Scholarship Recipient
-Member, National Honor Society
+* AWS Academy Cloud Foundations Graduate
+* ASU Cloud Scholarship Recipient
+* Member, National Honor Society
 
 ## 📫 How to Reach Me
 📧 Email: doo32@njit.edu
