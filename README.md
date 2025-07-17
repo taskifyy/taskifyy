@@ -40,6 +40,6 @@ I am a Computer Science and Information Technology student at the New Jersey Ins
 * Member, National Honor Society
 
 ## 📫 How to Reach Me
-📧 Email: doo32@njit.edu
-🔗 LinkedIn
-🐙 GitHub
+* 📧 Email: doo32@njit.edu
+* 🔗 LinkedIn
+* 🐙 GitHub
